@@ -12,7 +12,7 @@ We're constantly working on exciting projects. Check out our [products page](htt
 
 We love contributions from the community! Here's how you can get involved:
 
-- Check out our [GitHub repository](https://github.com/croissantlabs)
+- Check out our [GitHub repository](https://github.com/orgs/croissantlabs/repositories)
 - Look for issues labeled `good first issue` or `help wanted`
 - Read our contribution guidelines (coming soon)
 - Submit pull requests
@@ -35,7 +35,7 @@ Our projects are built with modern technologies, focusing on:
 
 - Follow us on GitHub
 - Visit our [website](https://croissantlabs.com)
-- Read our [blog](https://croissantlabs.com/blog)
+- Read our [blog]([https://croissantlabs.com/blog](https://github.com/orgs/croissantlabs/discussions)
 
 ### 🍿 Fun Facts
 
