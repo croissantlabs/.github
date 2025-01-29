@@ -6,7 +6,7 @@ Welcome to CroissantLabs! We're a forward-thinking tech organization focused on 
 
 ### 🚀 Our Products
 
-We're constantly working on exciting projects. Check out our [products page](/products) to see what we're building!
+We're constantly working on exciting projects. Check out our [products page](https://croissantlabs.com/products) to see what we're building!
 
 ### 🌈 Contributing
 
@@ -35,7 +35,7 @@ Our projects are built with modern technologies, focusing on:
 
 - Follow us on GitHub
 - Visit our [website](https://croissantlabs.com)
-- Read our [blog](/blog)
+- Read our [blog](https://croissantlabs.com/blog)
 
 ### 🍿 Fun Facts
 
