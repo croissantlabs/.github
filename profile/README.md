@@ -35,7 +35,7 @@ Our projects are built with modern technologies, focusing on:
 
 - Follow us on GitHub
 - Visit our [website](https://croissantlabs.com)
-- Read our [blog]([https://croissantlabs.com/blog](https://github.com/orgs/croissantlabs/discussions)
+- Read our [blog](https://github.com/orgs/croissantlabs/discussions)
 
 ### 🍿 Fun Facts
 
